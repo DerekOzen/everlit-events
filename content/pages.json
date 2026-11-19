@@ -15,5 +15,21 @@
     "createdAt": "2026-11-19T23:37:47.177Z",
     "createdBy": "mia",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/get-a-quote",
+    "type": "page",
+    "title": "Get a Quote",
+    "seoTitle": "Get a Light-Up Letter Quote | Everlit Events Sydney",
+    "seoDescription": "Request a light-up letter or number hire quote for Sydney. Tell us the word, date and suburb and we reply the same business day with an exact price.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-11-19T23:55:52.257Z",
+    "updatedBy": "mia",
+    "createdAt": "2026-11-19T23:55:52.257Z",
+    "createdBy": "mia"
   }
 ]
