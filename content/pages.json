@@ -418,6 +418,23 @@
   },
   {
     "id": "pg-27",
+    "path": "/home-2",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Light-Up Letters Hire Sydney | 1.2m Letters & Numbers",
+    "seoDescription": "Giant 1.2m light-up letters A–Z, numbers 0–9 & symbols for hire, $99 each, two of every letter. Delivered & set up across Sydney. Price your display online.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "published",
+    "updatedAt": "2026-11-20T01:12:15.397Z",
+    "updatedBy": "mia",
+    "createdAt": "2026-11-20T00:31:30.077Z",
+    "createdBy": "mia",
+    "isHome": false
+  },
+  {
+    "id": "pg-28",
     "path": "/",
     "type": "page",
     "title": "Home",
@@ -427,26 +444,10 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-11-20T00:59:30.625Z",
-    "updatedBy": "mia",
-    "createdAt": "2026-11-20T00:31:30.077Z",
-    "createdBy": "mia",
-    "isHome": true
-  },
-  {
-    "id": "pg-28",
-    "path": "/home",
-    "type": "page",
-    "title": "Home",
-    "seoTitle": "Light-Up Letters Hire Sydney | 1.2m Letters & Numbers",
-    "seoDescription": "Giant 1.2m light-up letters A–Z, numbers 0–9 & symbols for hire, $99 each, two of every letter. Delivered & set up across Sydney. Price your display online.",
-    "layout": "mockup",
-    "headerPartId": "header-1",
-    "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-11-20T01:12:00.415Z",
+    "updatedAt": "2026-11-20T01:12:15.397Z",
     "updatedBy": "mia",
     "createdAt": "2026-11-20T01:12:00.415Z",
-    "createdBy": "mia"
+    "createdBy": "mia",
+    "isHome": true
   }
 ]
