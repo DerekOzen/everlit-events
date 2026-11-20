@@ -1,0 +1,5 @@
+{
+  "header": "<script async src=\"https://www.googletagmanager.com/gtm.js?id=GTM-PG3CRC9J\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n</script>",
+  "body": "",
+  "footer": ""
+}
