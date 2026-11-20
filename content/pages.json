@@ -449,5 +449,21 @@
     "createdAt": "2026-11-20T01:12:00.415Z",
     "createdBy": "mia",
     "isHome": true
+  },
+  {
+    "id": "pg-29",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You",
+    "seoTitle": "Thank You | Everlit Events",
+    "seoDescription": "Thank you for your enquiry. Everlit Events checks your date and replies the same business day with an exact price.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-11-20T03:57:45.630Z",
+    "updatedBy": "mia",
+    "createdAt": "2026-11-20T03:57:45.630Z",
+    "createdBy": "mia"
   }
 ]
