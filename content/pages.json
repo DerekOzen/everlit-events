@@ -460,10 +460,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-11-20T03:57:45.630Z",
+    "status": "published",
+    "updatedAt": "2026-11-20T03:59:32.180Z",
     "updatedBy": "mia",
     "createdAt": "2026-11-20T03:57:45.630Z",
-    "createdBy": "mia"
+    "createdBy": "mia",
+    "noindex": true
   }
 ]
