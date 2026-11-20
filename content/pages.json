@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home-2",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Light-Up Letters Hire Sydney | 1.2m Letters & Numbers",
@@ -10,11 +10,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-11-20T00:31:43.250Z",
+    "updatedAt": "2026-11-20T00:35:13.818Z",
     "updatedBy": "mia",
     "createdAt": "2026-11-19T23:37:47.177Z",
     "createdBy": "mia",
-    "isHome": false
+    "isHome": true
   },
   {
     "id": "pg-2",
@@ -418,7 +418,7 @@
   },
   {
     "id": "pg-27",
-    "path": "/",
+    "path": "/home",
     "type": "page",
     "title": "Home",
     "seoTitle": "Light-Up Letters Hire Sydney | 1.2m Letters & Numbers",
@@ -427,10 +427,10 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-11-20T00:31:51.467Z",
+    "updatedAt": "2026-11-20T00:35:13.818Z",
     "updatedBy": "mia",
     "createdAt": "2026-11-20T00:31:30.077Z",
     "createdBy": "mia",
-    "isHome": true
+    "isHome": false
   }
 ]
