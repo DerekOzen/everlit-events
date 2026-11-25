@@ -514,5 +514,21 @@
     "updatedBy": "mia",
     "createdAt": "2026-11-25T10:48:26.531Z",
     "createdBy": "mia"
+  },
+  {
+    "id": "pg-33",
+    "path": "/guides/kmart-light-up-numbers-vs-hire",
+    "type": "page",
+    "title": "Kmart Light-Up Numbers vs Hiring 1.2m Numbers",
+    "seoTitle": "Kmart Light-Up Numbers vs Hiring 1.2m Numbers",
+    "seoDescription": "Kmart light up numbers are about 22 cm tall, battery powered and $6.99 each. See how they compare with hiring 1.2m numbers for a birthday, on size and cost.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-11-25T10:48:54.455Z",
+    "updatedBy": "mia",
+    "createdAt": "2026-11-25T10:48:54.455Z",
+    "createdBy": "mia"
   }
 ]
