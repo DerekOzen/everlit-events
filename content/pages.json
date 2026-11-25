@@ -493,8 +493,8 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-11-25T10:47:49.366Z",
+    "status": "published",
+    "updatedAt": "2026-11-25T10:48:01.199Z",
     "updatedBy": "mia",
     "createdAt": "2026-11-25T10:47:49.366Z",
     "createdBy": "mia"
