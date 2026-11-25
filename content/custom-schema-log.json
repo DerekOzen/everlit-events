@@ -1,6 +1,29 @@
 {
   "batches": [
     {
+      "batchId": "csg-mww05323-0l48",
+      "at": "2026-11-25T10:49:59.739Z",
+      "count": 4,
+      "changes": [
+        {
+          "path": "/light-up-numbers-hire/40th-birthday",
+          "newRecordId": "SCHEMA-EVERLIT-028"
+        },
+        {
+          "path": "/light-up-numbers-hire/50th-birthday",
+          "newRecordId": "SCHEMA-EVERLIT-029"
+        },
+        {
+          "path": "/guides/kmart-light-up-numbers-vs-hire",
+          "newRecordId": "SCHEMA-EVERLIT-030"
+        },
+        {
+          "path": "/school-formal-graduation-light-up-letters",
+          "newRecordId": "SCHEMA-EVERLIT-031"
+        }
+      ]
+    },
+    {
       "batchId": "csg-mwvyuyfx-99kc",
       "at": "2026-11-25T10:14:07.581Z",
       "count": 1,
