@@ -466,5 +466,21 @@
     "createdAt": "2026-11-20T03:57:45.630Z",
     "createdBy": "mia",
     "noindex": true
+  },
+  {
+    "id": "pg-30",
+    "path": "/party-lights-hire",
+    "type": "page",
+    "title": "Party Lights Hire Sydney | Light-Up Letters & Numbers",
+    "seoTitle": "Party Lights Hire Sydney | Light-Up Letters & Numbers",
+    "seoDescription": "Party lights hire in Sydney: giant 1.2m light-up letters and numbers with white LED bulbs, $99 a piece. Delivered, set up and collected from $90 by zone.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-11-25T10:12:50.324Z",
+    "updatedBy": "mia",
+    "createdAt": "2026-11-25T10:12:50.324Z",
+    "createdBy": "mia"
   }
 ]
