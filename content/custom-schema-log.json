@@ -1,0 +1,115 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mwvycxsk-cfa8",
+      "at": "2026-11-25T10:00:06.932Z",
+      "count": 26,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-EVERLIT-001"
+        },
+        {
+          "path": "/light-up-numbers-hire",
+          "newRecordId": "SCHEMA-EVERLIT-002"
+        },
+        {
+          "path": "/love-letters-hire",
+          "newRecordId": "SCHEMA-EVERLIT-003"
+        },
+        {
+          "path": "/pricing",
+          "newRecordId": "SCHEMA-EVERLIT-004"
+        },
+        {
+          "path": "/service-areas/western-sydney",
+          "newRecordId": "SCHEMA-EVERLIT-005"
+        },
+        {
+          "path": "/service-areas/inner-west-and-cbd",
+          "newRecordId": "SCHEMA-EVERLIT-006"
+        },
+        {
+          "path": "/service-areas/eastern-suburbs",
+          "newRecordId": "SCHEMA-EVERLIT-007"
+        },
+        {
+          "path": "/guides/kmart-light-up-letters-vs-hire",
+          "newRecordId": "SCHEMA-EVERLIT-008"
+        },
+        {
+          "path": "/guides/marquee-letters-letter-lights-what-are-they-called",
+          "newRecordId": "SCHEMA-EVERLIT-009"
+        },
+        {
+          "path": "/light-up-letters-hire",
+          "newRecordId": "SCHEMA-EVERLIT-010"
+        },
+        {
+          "path": "/light-up-numbers-hire/21st-birthday",
+          "newRecordId": "SCHEMA-EVERLIT-011"
+        },
+        {
+          "path": "/light-up-numbers-hire/18th-birthday",
+          "newRecordId": "SCHEMA-EVERLIT-012"
+        },
+        {
+          "path": "/wedding-light-up-letters",
+          "newRecordId": "SCHEMA-EVERLIT-013"
+        },
+        {
+          "path": "/mr-and-mrs-letters-hire",
+          "newRecordId": "SCHEMA-EVERLIT-014"
+        },
+        {
+          "path": "/marry-me-letters-hire",
+          "newRecordId": "SCHEMA-EVERLIT-015"
+        },
+        {
+          "path": "/service-areas",
+          "newRecordId": "SCHEMA-EVERLIT-016"
+        },
+        {
+          "path": "/service-areas/south-west-sydney",
+          "newRecordId": "SCHEMA-EVERLIT-017"
+        },
+        {
+          "path": "/service-areas/hills-district",
+          "newRecordId": "SCHEMA-EVERLIT-018"
+        },
+        {
+          "path": "/service-areas/north-shore-and-northern-beaches",
+          "newRecordId": "SCHEMA-EVERLIT-019"
+        },
+        {
+          "path": "/service-areas/sutherland-shire-and-st-george",
+          "newRecordId": "SCHEMA-EVERLIT-020"
+        },
+        {
+          "path": "/build-your-display",
+          "newRecordId": "SCHEMA-EVERLIT-021"
+        },
+        {
+          "path": "/guides",
+          "newRecordId": "SCHEMA-EVERLIT-022"
+        },
+        {
+          "path": "/faq",
+          "newRecordId": "SCHEMA-EVERLIT-023"
+        },
+        {
+          "path": "/get-a-quote",
+          "newRecordId": "SCHEMA-EVERLIT-024"
+        },
+        {
+          "path": "/privacy-policy",
+          "newRecordId": "SCHEMA-EVERLIT-025"
+        },
+        {
+          "path": "/hire-terms",
+          "newRecordId": "SCHEMA-EVERLIT-026"
+        }
+      ]
+    }
+  ]
+}
