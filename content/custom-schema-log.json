@@ -1,6 +1,21 @@
 {
   "batches": [
     {
+      "batchId": "csg-mwzke0uz-xox3",
+      "at": "2026-11-27T22:40:07.643Z",
+      "count": 2,
+      "changes": [
+        {
+          "path": "/balloon-styling-sydney",
+          "newRecordId": "SCHEMA-EVERLIT-032"
+        },
+        {
+          "path": "/backdrop-hire-sydney",
+          "newRecordId": "SCHEMA-EVERLIT-033"
+        }
+      ]
+    },
+    {
       "batchId": "csg-mwyjs1dl-tgzn",
       "at": "2026-11-27T05:35:15.705Z",
       "count": 31,
