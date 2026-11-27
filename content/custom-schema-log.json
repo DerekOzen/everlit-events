@@ -1,6 +1,168 @@
 {
   "batches": [
     {
+      "batchId": "csg-mwyjs1dl-tgzn",
+      "at": "2026-11-27T05:35:15.705Z",
+      "count": 31,
+      "changes": [
+        {
+          "path": "/",
+          "oldRecordId": "SCHEMA-EVERLIT-001",
+          "newRecordId": "SCHEMA-EVERLIT-001"
+        },
+        {
+          "path": "/light-up-numbers-hire",
+          "oldRecordId": "SCHEMA-EVERLIT-002",
+          "newRecordId": "SCHEMA-EVERLIT-002"
+        },
+        {
+          "path": "/love-letters-hire",
+          "oldRecordId": "SCHEMA-EVERLIT-003",
+          "newRecordId": "SCHEMA-EVERLIT-003"
+        },
+        {
+          "path": "/pricing",
+          "oldRecordId": "SCHEMA-EVERLIT-004",
+          "newRecordId": "SCHEMA-EVERLIT-004"
+        },
+        {
+          "path": "/service-areas/western-sydney",
+          "oldRecordId": "SCHEMA-EVERLIT-005",
+          "newRecordId": "SCHEMA-EVERLIT-005"
+        },
+        {
+          "path": "/service-areas/inner-west-and-cbd",
+          "oldRecordId": "SCHEMA-EVERLIT-006",
+          "newRecordId": "SCHEMA-EVERLIT-006"
+        },
+        {
+          "path": "/service-areas/eastern-suburbs",
+          "oldRecordId": "SCHEMA-EVERLIT-007",
+          "newRecordId": "SCHEMA-EVERLIT-007"
+        },
+        {
+          "path": "/guides/kmart-light-up-letters-vs-hire",
+          "oldRecordId": "SCHEMA-EVERLIT-008",
+          "newRecordId": "SCHEMA-EVERLIT-008"
+        },
+        {
+          "path": "/guides/marquee-letters-letter-lights-what-are-they-called",
+          "oldRecordId": "SCHEMA-EVERLIT-009",
+          "newRecordId": "SCHEMA-EVERLIT-009"
+        },
+        {
+          "path": "/light-up-letters-hire",
+          "oldRecordId": "SCHEMA-EVERLIT-010",
+          "newRecordId": "SCHEMA-EVERLIT-010"
+        },
+        {
+          "path": "/light-up-numbers-hire/21st-birthday",
+          "oldRecordId": "SCHEMA-EVERLIT-011",
+          "newRecordId": "SCHEMA-EVERLIT-011"
+        },
+        {
+          "path": "/light-up-numbers-hire/18th-birthday",
+          "oldRecordId": "SCHEMA-EVERLIT-012",
+          "newRecordId": "SCHEMA-EVERLIT-012"
+        },
+        {
+          "path": "/wedding-light-up-letters",
+          "oldRecordId": "SCHEMA-EVERLIT-013",
+          "newRecordId": "SCHEMA-EVERLIT-013"
+        },
+        {
+          "path": "/mr-and-mrs-letters-hire",
+          "oldRecordId": "SCHEMA-EVERLIT-014",
+          "newRecordId": "SCHEMA-EVERLIT-014"
+        },
+        {
+          "path": "/marry-me-letters-hire",
+          "oldRecordId": "SCHEMA-EVERLIT-015",
+          "newRecordId": "SCHEMA-EVERLIT-015"
+        },
+        {
+          "path": "/service-areas",
+          "oldRecordId": "SCHEMA-EVERLIT-016",
+          "newRecordId": "SCHEMA-EVERLIT-016"
+        },
+        {
+          "path": "/service-areas/south-west-sydney",
+          "oldRecordId": "SCHEMA-EVERLIT-017",
+          "newRecordId": "SCHEMA-EVERLIT-017"
+        },
+        {
+          "path": "/service-areas/hills-district",
+          "oldRecordId": "SCHEMA-EVERLIT-018",
+          "newRecordId": "SCHEMA-EVERLIT-018"
+        },
+        {
+          "path": "/service-areas/north-shore-and-northern-beaches",
+          "oldRecordId": "SCHEMA-EVERLIT-019",
+          "newRecordId": "SCHEMA-EVERLIT-019"
+        },
+        {
+          "path": "/service-areas/sutherland-shire-and-st-george",
+          "oldRecordId": "SCHEMA-EVERLIT-020",
+          "newRecordId": "SCHEMA-EVERLIT-020"
+        },
+        {
+          "path": "/build-your-display",
+          "oldRecordId": "SCHEMA-EVERLIT-021",
+          "newRecordId": "SCHEMA-EVERLIT-021"
+        },
+        {
+          "path": "/guides",
+          "oldRecordId": "SCHEMA-EVERLIT-022",
+          "newRecordId": "SCHEMA-EVERLIT-022"
+        },
+        {
+          "path": "/faq",
+          "oldRecordId": "SCHEMA-EVERLIT-023",
+          "newRecordId": "SCHEMA-EVERLIT-023"
+        },
+        {
+          "path": "/get-a-quote",
+          "oldRecordId": "SCHEMA-EVERLIT-024",
+          "newRecordId": "SCHEMA-EVERLIT-024"
+        },
+        {
+          "path": "/privacy-policy",
+          "oldRecordId": "SCHEMA-EVERLIT-025",
+          "newRecordId": "SCHEMA-EVERLIT-025"
+        },
+        {
+          "path": "/hire-terms",
+          "oldRecordId": "SCHEMA-EVERLIT-026",
+          "newRecordId": "SCHEMA-EVERLIT-026"
+        },
+        {
+          "path": "/party-lights-hire",
+          "oldRecordId": "SCHEMA-EVERLIT-027",
+          "newRecordId": "SCHEMA-EVERLIT-027"
+        },
+        {
+          "path": "/light-up-numbers-hire/40th-birthday",
+          "oldRecordId": "SCHEMA-EVERLIT-028",
+          "newRecordId": "SCHEMA-EVERLIT-028"
+        },
+        {
+          "path": "/light-up-numbers-hire/50th-birthday",
+          "oldRecordId": "SCHEMA-EVERLIT-029",
+          "newRecordId": "SCHEMA-EVERLIT-029"
+        },
+        {
+          "path": "/guides/kmart-light-up-numbers-vs-hire",
+          "oldRecordId": "SCHEMA-EVERLIT-030",
+          "newRecordId": "SCHEMA-EVERLIT-030"
+        },
+        {
+          "path": "/school-formal-graduation-light-up-letters",
+          "oldRecordId": "SCHEMA-EVERLIT-031",
+          "newRecordId": "SCHEMA-EVERLIT-031"
+        }
+      ]
+    },
+    {
       "batchId": "csg-mww05323-0l48",
       "at": "2026-11-25T10:49:59.739Z",
       "count": 4,
