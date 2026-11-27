@@ -573,10 +573,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-27T22:35:13.909Z",
     "createdBy": "mia",
-    "updatedAt": "2026-11-27T22:35:13.909Z",
+    "updatedAt": "2026-11-27T22:37:47.897Z",
     "updatedBy": "mia"
   }
 ]
