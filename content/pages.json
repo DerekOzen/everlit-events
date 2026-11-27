@@ -546,5 +546,37 @@
     "updatedBy": "mia",
     "createdAt": "2026-11-25T10:49:21.761Z",
     "createdBy": "mia"
+  },
+  {
+    "id": "pg-35",
+    "path": "/balloon-styling-sydney",
+    "type": "page",
+    "title": "Balloon Garlands & Arches Sydney | Balloon Styling",
+    "seoTitle": "Balloon Garlands & Arches Sydney | Balloon Styling",
+    "seoDescription": "Balloon garlands, arches and columns styled in your colours for parties and weddings in Sydney. Priced by quote, delivered and set up from $240 by zone.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-11-27T22:35:13.909Z",
+    "createdBy": "mia",
+    "updatedAt": "2026-11-27T22:35:13.909Z",
+    "updatedBy": "mia"
+  },
+  {
+    "id": "pg-36",
+    "path": "/backdrop-hire-sydney",
+    "type": "page",
+    "title": "Backdrop Hire Sydney | Personalised Backdrops & Props",
+    "seoTitle": "Backdrop Hire Sydney | Personalised Backdrops & Props",
+    "seoDescription": "Backdrop hire in Sydney for birthdays, weddings and events: personalised backdrops and event props, priced by quote. Delivered and set up from $240 by zone.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-11-27T22:35:13.909Z",
+    "createdBy": "mia",
+    "updatedAt": "2026-11-27T22:35:13.909Z",
+    "updatedBy": "mia"
   }
 ]
