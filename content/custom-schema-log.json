@@ -1,6 +1,18 @@
 {
   "batches": [
     {
+      "batchId": "csg-mwzkkxho-ngif",
+      "at": "2026-11-27T22:45:29.868Z",
+      "count": 1,
+      "changes": [
+        {
+          "path": "/party-lights-hire",
+          "oldRecordId": "SCHEMA-EVERLIT-027",
+          "newRecordId": "SCHEMA-EVERLIT-027"
+        }
+      ]
+    },
+    {
       "batchId": "csg-mwzke0uz-xox3",
       "at": "2026-11-27T22:40:07.643Z",
       "count": 2,
